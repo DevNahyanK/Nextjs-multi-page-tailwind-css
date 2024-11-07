@@ -1,5 +1,5 @@
-import Card from "@/Components/Card"; 
-import HeroSection from "@/Components/HeroSection";
+import Card from "@/components/Card"; 
+import HeroSection from "@/components/HeroSection";
 
 export default function Home() {
   const Bats = [
