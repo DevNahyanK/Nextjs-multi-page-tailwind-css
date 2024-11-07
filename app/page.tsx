@@ -1,5 +1,8 @@
-import Card from "@/components/Card";
-import HeroSection from "@/components/HeroSection";
+import Card from '../components/Card';
+import HeroSection from '../components/HeroSection';
+
+// import Card from "@/components/Card";
+// import HeroSection from "@/components/HeroSection";
 
 export default function Home() {
   const Gallery = [
