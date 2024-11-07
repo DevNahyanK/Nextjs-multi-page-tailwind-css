@@ -1,8 +1,8 @@
-import HeroSection from '../../components/HeroSection';
-// import HeroSection from "@/components/HeroSection";
+import HeroSection from "@/Components/HeroSection";
+import Card from "@/Components/Card";
+// import HeroSection from '../../components/HeroSection';
+// import Card from '../../components/Card';
 
-import Card from '../../components/Card';
-// import Card from "@/components/Card";
 export default function Home() {
   const Bats = [
     {
